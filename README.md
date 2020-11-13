@@ -1,3 +1,3 @@
 # Dame-Da-Ne-automation
 
-create meme with thsi code
+create meme with this code
